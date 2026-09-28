@@ -1,4 +1,6 @@
-Abstract—Digital mental-wellness systems often focus on conversational response generation while treating accessibility,
+Abstract :
+
+Digital mental-wellness systems often focus on conversational response generation while treating accessibility,
 emotional context, wellness guidance, and safety-oriented risk handling as separate concerns. 
 This paper presents MindBridgeAI, a service-oriented multi-agent platform designed to integrate these capabilities into a single modular architecture.
 The system decomposes the interaction workflow into specialized services for emotional assessment, accessibility adaptation, wellness guidance,
